@@ -4,11 +4,11 @@
   "schemes": [
     {
       "name": "Gruber Darker",
-      "background": "#181818",
+      "background": "#121212",
       "foreground": "#E4E4E4",
       "cursorColor": "#FFDD33",
       "selectionBackground": "#FFFFFF",
-      "black": "#181818",
+      "black": "#121212",
       "brightBlack": "#52494E",
       "white": "#E4E4E4",
       "brightWhite": "#F5F5F5",
